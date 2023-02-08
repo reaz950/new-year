@@ -73,3 +73,16 @@
     padding-bottom: 10px;
     list-style-type: none;
 }
+
+/* my Plan part start */
+
+.my-plan-title{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center  ;
+}
+
+.plan-items{
+    display: flex;
+    justify-content: space-between;
+}
