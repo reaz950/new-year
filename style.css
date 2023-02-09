@@ -131,7 +131,10 @@
   margin-bottom: 10px;
 }
 .form  button{
+  margin-top: 10px;
   display: block;
+
+  padding: 10px 15px;
 }
 /* Footer part css start */
 #footer {
