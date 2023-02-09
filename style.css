@@ -56,6 +56,7 @@
     margin-top: 50px;
     display: flex;
     align-items: center;
+    font-family: "Work Sans";
 }
 .about-text h2{
     padding-right: 330px;
@@ -75,14 +76,20 @@
 }
 
 /* my Plan part start */
-
+#my-plan{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
 .my-plan-title{
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center  ;
+    font-size: 40px;
+    font-weight: 700;
 }
 
 .plan-items{
     display: flex;
     justify-content: space-between;
+    text-align: center;
 }
