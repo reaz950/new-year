@@ -93,6 +93,30 @@
   text-align: center;
 }
 
+/* Positive Mindset part start */
+
+.positive-mindset {
+  padding: 80px;
+  background-image: linear-gradient(
+    to right,
+    rgba(68, 107, 236, 0.836),
+    rgba(255, 0, 0, 0)
+  );
+
+  color: #fff;
+  font-size: 40px;
+}
+
+.positive-mindset span {
+  display: block;
+}
+.positive-mindset button {
+  padding: 10px 15px;
+  background-color: #fff;
+  border: none;
+  margin-top: 20px;
+  border-radius: 20px;
+}
 /* Footer part css start */
 #footer {
   margin: 30px 0px;
@@ -124,14 +148,14 @@
   padding: 10px 20px;
   margin-bottom: 20px;
 }
-.footer-right button{
+.footer-right button {
   padding: 10px 15px;
   color: tomato;
   font-weight: 700;
   transition: all linear 0.3s;
 }
 
-.footer-right button:hover{
+.footer-right button:hover {
   background-color: tomato;
   color: #000;
 }
