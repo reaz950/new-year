@@ -118,19 +118,19 @@
   border-radius: 20px;
 }
 
-.form-title{
+.form-title {
   margin-top: 50px;
   margin-bottom: 50px;
   text-align: center;
   font-size: 30px;
 }
 
-.form input{
+.form input {
   display: block;
   padding: 10px 15px;
   margin-bottom: 10px;
 }
-.form  button{
+.form button {
   margin-top: 10px;
   display: block;
 
